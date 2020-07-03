@@ -10,4 +10,4 @@
 -   recently i was using repository design pattern BUT as mentioned in the TASK DOCUMENT " It is important to
     follow Laravel practice and general designs concepts " so i worked on the default mvc structure most of logic set into the Models.
 -   PLZ PLZ PLZ again don't mind the RTL Support it's a free template after all.
--   Don't fogot to make composer update after the Pull.
+-   Don't forgot to make composer update after the Pull.
